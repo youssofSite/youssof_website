@@ -6,7 +6,7 @@ feature_text: |
   Just another website - You may find something helpful, so stick around.
 ---
 
-This is where I will share my projects and ideas. So you can think of this as a portfolio and blog at the same time. You can find all posts in the 'Posts'. If you have any questions feel free to email me at 'youssof.live@gmail.com'.
+This is where I will share my projects and ideas. So you can think of this as a portfolio and blog at the same time. You can find all posts in the 'Posts' tab. If you have any questions feel free to email me at 'youssof.live@gmail.com'.
 
 {% include button.html text="Github" color="#0466d6"  icon="github" link="https://github.com/Youssof2025" %}
 
@@ -34,6 +34,7 @@ I have had experience with the following things:
 * MacOS
 * Windows
 
+I have 3 years worth of experience with power tools and wood working projects. 
 I also like to workout at the gym every few days, I love running (long and short distances). And I'm also very good at playing badminton and table tennis. The pandemic did not help 
 :(
 

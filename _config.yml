@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Youssof'
 description: 'Just another website'
 permalink: pretty
-logo: "/assets/logos/logo.svg"
+logo: "/images/logo_transparent.png"
 google_analytics: UA-202525506-3
 
 # Pagination

@@ -1,5 +1,5 @@
 ---
-title: Learning the linux command line fundamentals, part 2
+title: Learn The Linux Command Line Fundamentals, Part 2
 categories:
 - Cybersecurity
 feature_image: "https://picsum.photos/2560/600?image=872"

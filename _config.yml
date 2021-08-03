@@ -48,8 +48,10 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: About
+  url: "/about/"
+- title: Contact Me
+  url: "/contact/"
 
 # Collections
 collections:

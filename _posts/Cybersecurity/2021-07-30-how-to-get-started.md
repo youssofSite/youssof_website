@@ -1,5 +1,5 @@
 ---
-title: How to get started in cybersecurity
+title: How To Get Started In Cybersecurity
 categories:
 - Cybersecurity
 feature_image: "https://picsum.photos/2560/600?image=872"

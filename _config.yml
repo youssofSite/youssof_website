@@ -39,8 +39,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Posts
-  url: /blog/
+- title: Contact
+  url: /contact/
 - title: Categories
   url: /categories/
 - title: Search

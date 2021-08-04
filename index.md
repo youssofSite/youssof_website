@@ -6,11 +6,22 @@ feature_text: |
   Just another website - You may find something useful, so stick around.
 ---
 
-This is where I will share my projects and ideas. So you can think of this as a portfolio and blog at the same time. You can find all posts in the 'Posts' tab. If you have any questions feel free to contact me, the contact page is down below.
+Here I will teach others about cybersecurity, linux, networking, and many other things. All these will help you land a career in IT. If you have any questions feel free to contact me at any time, I will try to respond as fast as possible.
 
-{% include button.html text="Github" color="#0466d6"  icon="github" link="https://github.com/Youssof2025" %}
+{% include button.html text="Get Started" color="#66D7D1" link="/categories/#get-started" %} {% include button.html text="Linux" color="#FC7753" link="/categories/#linux" %} <!--{% include button.html text="Hacking" color="#66D7D1" link="" %}--> <!--{% include button.html text="Networking" color="#FC7753" link="" %}--> <!--{% include button.html text="C" color="#66D7D1" link="/categories/#c" %}--> <!--{% include button.html text="C++" color="#0466d6" link="" %}--> More coming soon!
 
-You can visit my github page as I have projects written in C. You can go check them out. I have a lot of experience with C and C++ but i'm not an expert at them yet. If you need basic help with them I'm just an email away. Soon I'll add a 'buy me a coffee' link so that you can support me, it's completely optional.
+
+
+
+
+
+
+
+
+
+
+
+<!--You can visit my github page as I have projects written in C. You can go check them out. I have a lot of experience with C and C++ but i'm not an expert at them yet. If you need basic help with them I'm just an email away. Soon I'll add a 'buy me a coffee' link so that you can support me, it's completely optional.-->
 
 <!--# Why did I create this website?
 

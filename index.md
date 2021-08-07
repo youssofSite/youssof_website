@@ -8,7 +8,7 @@ feature_text: |
 
 Here I will teach others about cybersecurity, linux, networking, and many other things. All these will help you land a career in IT. If you have any questions feel free to contact me at any time, I will try to respond as fast as possible.
 
-{% include button.html text="Get Started 👨‍💻" color="#66D7D1" link="/categories/#get-started" %} {% include button.html text="Linux 🐧" color="#FC7753" link="/categories/#linux" %} <!--{% include button.html text="Hacking" color="#66D7D1" link="" %}--> <!--{% include button.html text="Networking" color="#FC7753" link="" %}--> <!--{% include button.html text="C" color="#66D7D1" link="/categories/#c" %}--> <!--{% include button.html text="C++" color="#0466d6" link="" %}--> More coming soon!
+{% include button.html text="Get Started 👨‍💻" color="#66D7D1" link="/categories/#get-started" %} {% include button.html text="Linux 🐧" color="#FC7753" link="/categories/#linux" %} <!--{% include button.html text="Hacking" color="#66D7D1" link="" %}--> <!--{% include button.html text="Networking" color="#FC7753" link="" %}--> <!--{% include button.html text="C 💻" color="#66D7D1" link="/categories/#c" %}--> <!--{% include button.html text="C++" color="#0466d6" link="" %}--> More coming soon!
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Get Started In Cybersecurity
 categories:
-- Get Started 👨‍💻
+- Get Started
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 

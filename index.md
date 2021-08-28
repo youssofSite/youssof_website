@@ -3,7 +3,7 @@ title: Welcome!
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Youssof
-  Just another website - You may find something useful, so stick around.
+  You may find something useful, so stick around.
 ---
 
 Here I will teach others about cybersecurity, linux, networking, and many other things. All these will help you land a career in IT. If you have any questions feel free to contact me at any time, I will try to respond as fast as possible. 
